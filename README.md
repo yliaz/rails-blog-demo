@@ -1,24 +1,23 @@
-# README
+# Rails-blog-demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 简介
 
-Things you may want to cover:
+本项目为Ruby on rails官网新手入门教程例子的完整代码
 
-* Ruby version
+## 如何使用
 
-* System dependencies
+```shell script
+# 将本项目克隆到本地
+git clone https://github.com/yliaz/rails-blog-demo.git
 
-* Configuration
+# 进入项目文件夹
+cd rails-blog-demo
 
-* Database creation
+# 开启服务器
+bin/rails server
+```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用须知
+使用时需要登录验证
+* 登录用户名：Tom
+* 登录密码：1234
